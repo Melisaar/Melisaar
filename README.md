@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Melisaar
-- 👀 I’m interested in learning more about Analytics
-- 🌱 I’m currently learning how to work use all my skills together in a project
-- 💞️ I’m looking to collaborate on everthing data and analytics related 
 - 📫 How to reach me ...
 
 <!---
